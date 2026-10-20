@@ -863,6 +863,9 @@ Reels, shorts, profiles, hashtags, and engagement for Instagram and TikTok.
 | [YouTube Channel Email Scraper — Emails, Phones & Socials](https://apify.com/khadinakbar/youtube-channel-email-extractor?fpr=p2hrc6) | YouTube channel email scraper. Extracts emails, phones, Instagram, TikTok, Twitter & 4 more socials by niche or URL. Follows Linktree & websites. No login. |
 | [YouTube Email Scraper](https://apify.com/crawlerbros/youtube-email-scraper?fpr=p2hrc6) | Extract emails from YouTube channels without CAPTCHA bypass. Scans channel About descriptions and follows Instagram, TikTok and Linktree profiles linked from the channel. HTTP-only, no cookies, no API... |
 | [YouTube Repurposing Clip Finder - AI Shorts & Reels Ideas](https://apify.com/piposlab/youtube-clip-finder?fpr=p2hrc6) | Turn any YouTube video into short-form clip ideas. The AI finds the best moments and writes hooks, captions and titles for TikTok, Reels and Shorts. |
+| [✨ Social Video Info](https://apimesa.com) | Get the real title, author, and thumbnail for a YouTube, TikTok, Instagram, or Vimeo video via official oEmbed and Open Graph data. |
+| [✨ TikTok Video Details](https://apimesa.com) | Resolve public TikTok video captions, creators, thumbnails, and embeddable metadata through the public oEmbed interface. |
+| [✨ Instagram Public Post Details](https://apimesa.com) | Extract public Instagram post metadata, captions, images, canonical URLs, and structured page data when the source permits crawling. |
 
 ---
 
