@@ -46,6 +46,19 @@
 
 </div>
 
+<!-- APIMESA-FEATURED-START -->
+## ⭐ Featured: APIMesa
+
+<p align="center">
+  <a href="https://apimesa.com" target="_blank" rel="noopener">
+    <img src=".github/assets/apimesa-promo-banner.png" alt="APIMesa — Pay-Per-Call APIs for AI, Scraping & Data. 150+ APIs, one API key, live playground at apimesa.com" width="100%">
+  </a>
+</p>
+
+**[APIMesa](https://apimesa.com)** is a pay-per-call API marketplace with 150+ live APIs for AI, scraping, data, SEO, lead generation, media, and developer utilities — one API key, clear per-call credit pricing, and a live playground for every API.
+
+<!-- APIMESA-FEATURED-END -->
+
 ## At A Glance
 
 > The ultimate collection of social growth APIs — scrape, analyze, and scale across Instagram, TikTok, YouTube, X, and more. **2,786 production-ready APIs** across **6 navigable sections**.
