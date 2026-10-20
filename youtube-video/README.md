@@ -371,6 +371,7 @@ YouTube channels, videos, Shorts, transcripts, and video platform data.
 | [YouTube Video Transcript](https://apify.com/starvibe/youtube-video-transcript?fpr=p2hrc6) | This Apify Actor extracts full transcripts (with timestamps) and metadata from YouTube videos, including title, description, upload date, views, likes, channel info, and duration |
 | [Youtube Video/Shorts Details Scraper Pro -  Fast](https://apify.com/beyondops/youtube-metadata-scraper-pro-v2?fpr=p2hrc6) | Extract Views, Likes, and Dates. Handles Shorts & Videos. Bypasses Sign-in walls with Cookie support. |
 | [YT Channel Home Scraper](https://apify.com/igview-owner/youtube-channel-home-page-scraper?fpr=p2hrc6) | Scrape YouTube channel home pages instantly. Get subscriber counts, video lists, thumbnails, descriptions & more. Perfect for analytics & research. |
+| [✨ YouTube Channel Details API](https://apimesa.com) | Get full details for any YouTube channel — name, handle, subscribers, total views, video count, avatar, and description — from a channel ID, @handle, or URL. Responses are cached for 24 hours. |
 
 ---
 
